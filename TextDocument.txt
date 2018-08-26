@@ -10,4 +10,7 @@ add for branch "master":
 add vetka3:
 + another add vetka3
 second addition
+delete third addition
+addvetka4:
+first addition
 add vetka5
